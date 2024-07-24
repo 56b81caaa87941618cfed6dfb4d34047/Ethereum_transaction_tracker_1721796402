@@ -74,24 +74,5 @@
         "isDraggable": true,
         "isResizable": true,
         "name": ""
-    },
-    "purple_background_cta_component_1721796403.js": {
-        "component_name": "purple_background_cta_component",
-        "id": "purple_background_cta_component_1721796403",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 12,
-        "h": 8,
-        "x": 0,
-        "y": 8,
-        "i": "0",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true,
-        "name": ""
     }
 }
